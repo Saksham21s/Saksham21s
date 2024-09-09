@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello there! I'm Saksham Pandey, a passionate Full Stack Developer currently pursuing my B.Tech in Computer Science, specializing in the 3rd year. My journey in the realm of technology has been guided by a strong fascination for creating seamless, user-centric applications.
+👋 Hello there! I'm Saksham Pandey, a passionate Full Stack Developer currently pursuing my B.Tech in Computer Science. My journey in the realm of technology has been guided by a strong fascination for creating seamless, user-centric applications.
 
 
 ## 🌐 Socials:
