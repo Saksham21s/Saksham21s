@@ -12,7 +12,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Saksham21s&theme=gruvbox&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Saksham21s&theme=gruvbox&hide_border=false)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham21s&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
