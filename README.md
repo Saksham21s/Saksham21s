@@ -4,7 +4,9 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saksham-pandey21) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FF9900.svg?logo=leetCode&logoColor=white)](https://leetcode.com/u/saksham21s/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FF9900.svg?logo=leetCode&logoColor=white)](https://leetcode.com/u/saksham21s/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=internet-explorer&logoColor=white)](https://pandeysaksham21s.vercel.app/)
+
 
 
 # 💻 Tech Stack:
