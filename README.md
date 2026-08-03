@@ -536,14 +536,6 @@ open_to:
 
 ## GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saksham-pandeyy&theme=github_dark" />
-&nbsp;
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saksham-pandeyy&theme=github_dark" />
-
-</div>
-
 <br/>
 
 <div align="center">
